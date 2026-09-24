@@ -19,7 +19,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 }
 
 .gs-section-01 p {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 </style>
@@ -39,7 +39,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 }
 
 .gs-section-02 p {
-  font-size: 30px;
+  font-size: 25px;
 }
 </style>
 
@@ -60,7 +60,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
   }
 
   .gs-section-03 p {
-  font-size: 30px;
+  font-size: 25px;
 }
   
 </style>
