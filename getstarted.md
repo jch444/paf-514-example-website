@@ -24,7 +24,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </style>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
   
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -38,7 +38,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
   color: orange;
 }
 
-.gs-section-01 p {
+.gs-section-02 p {
   font-size: 30px;
 }
 </style>
@@ -55,11 +55,11 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-  .gs-section-02 h3 {
+  .gs-section-03 h3 {
     color: purple;
   }
 
-  .gs-section-02 p {
+  .gs-section-03 p {
   font-size: 30px;
 }
   
