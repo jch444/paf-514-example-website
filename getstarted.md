@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Getting Started
+
 ---
 
 Getting started is *literally* as easy as 1-2-3 :smile:
