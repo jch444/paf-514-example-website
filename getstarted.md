@@ -43,7 +43,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 }
 </style>
 
-<div>
+<div class="gs-section-03" markdown="1">
   
 ### 3. Customize your website settings
 
